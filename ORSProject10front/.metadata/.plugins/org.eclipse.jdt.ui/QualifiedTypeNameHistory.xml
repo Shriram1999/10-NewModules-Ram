@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rays.dto.OwnerDTO"/>
+    <fullyQualifiedTypeName name="com.rays.dto.VehicleIdDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.VehicleIdServiceInt"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
+    <fullyQualifiedTypeName name="javax.validation.Constraint"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidVersion"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidCustomFormat"/>
+    <fullyQualifiedTypeName name="com.rays.validation.DateValidator"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidDouble"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidAlphabeticValidator1"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidCost"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidLong"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidAlphabetic1"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidAlphabetic"/>
+</qualifiedTypeNameHistroy>
